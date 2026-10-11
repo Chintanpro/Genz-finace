@@ -1,0 +1,8 @@
+{
+  "name": "Banknote Studio — Runway Cashflow Clearance",
+  "description": "Tactile personal cashflow clearance and simulated runway velocity engine calibrated for ₹10,000 envelope expeditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
